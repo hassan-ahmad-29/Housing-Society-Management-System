@@ -6,3 +6,5 @@ The Housing Society Management System is a proposed web-based application for or
 👥 Target Users 
 
 Society Administration: Manages property ownership, lease agreements, operational tracking, and employee assignments.
+
+Project State : Under development .
